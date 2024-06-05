@@ -1,0 +1,5 @@
+FICHA: 2956247
+TI: 1011396145
+NOMBRE: Juan José Vanegas Mira
+FECHA: 5/06/2024
+TITULO: Taller Practico De GIT
